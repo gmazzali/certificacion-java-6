@@ -1,0 +1,1 @@
+El proyecto para realizar las pruebas para la certificación java SE 1.6
